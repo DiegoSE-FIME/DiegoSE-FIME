@@ -1,7 +1,12 @@
-### Hi there 👋
 
-# Software Engineering student. <img src="https://github-readme-stats.vercel.app/api?username=DiegoSE-FIME&show_icons=true&hide_border=true" alt="Stats" width="440" align="right"> 
+- 🔭 I’m currently working on NFTu
 
-💡 Currently learning: ReactJS.
+- 🌱 I’m currently learning React and Web3
 
-🧪 Physics and Mathematics enthusiast.
+- 🧪 Physics and math enthusiast
+
+- 📫 How to reach me:
+- [Twitter](https://twitter.com/diego03825)
+- [Instagram](https://www.instagram.com/diego.jsx/)
+
+
