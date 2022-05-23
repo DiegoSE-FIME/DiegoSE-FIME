@@ -18,6 +18,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoGhastly)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=yoGhastly&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
+| | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=yoGhastly&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
 | ------------- | ------------- |
 
