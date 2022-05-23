@@ -1,5 +1,5 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
-<h1>Hello 😁, I'm Diego Espinosa 🐱‍👤🤽‍♂️</h1>
+<h1>Hello, I'm Diego Espinosa</h1>
 <div align="center">
 💻 Front End Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭Physics and Math Enthusiast&nbsp;&nbsp;|&nbsp;&nbsp;
 </div>
